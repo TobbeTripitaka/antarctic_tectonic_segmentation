@@ -1,3 +1,3 @@
-# Tectonic Segmenattion of ANtarctica by similarity methods
+# Tectonic Segmentation of Antarctica by similarity methods
 ---
 Tobias Stål
